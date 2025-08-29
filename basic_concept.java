@@ -44,6 +44,8 @@ public class Section1_Basics {
 		c=c-d;
 		System.out.println(c);
 		System.out.println(d);
+		// ascii value of character
+	
 		char ch='A';
 		int asval=ch;
 		System.out.println("Ascii-value :"+asval);
